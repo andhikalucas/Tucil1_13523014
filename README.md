@@ -34,5 +34,5 @@ Untuk mengkompilasi Main.java dan menyimpan hasilnya di direktori bin, ikuti lan
    ```sh
    java -cp bin Main
 
-##👤 Author
-- Nicholas Andhika Lucas (13523014)
+## 👤 Author
+Nicholas Andhika Lucas (13523014)
